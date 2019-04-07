@@ -1,0 +1,17 @@
+commit 64a50603cd240354466f02ae310f8e6fa758a7f7
+Author: tairch <tairch@gmail.com>
+Date:   Sat Mar 23 18:08:18 2019 +0200
+
+    ex1 files other than program.cs
+
+commit b5f573d8ef529cd026c31c2100bc42aa93fb3b93
+Author: tairch <tairch@gmail.com>
+Date:   Sat Mar 23 18:05:31 2019 +0200
+
+    ex1
+
+commit 60c5d5c9949a05d181e6c78294714f0d0b3c65b3
+Author: NOT <NOT@NOT-PC>
+Date:   Fri Mar 22 19:35:41 2019 +0200
+
+    Add .gitignore and .gitattributes.
